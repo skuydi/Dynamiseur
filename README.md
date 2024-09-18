@@ -1,7 +1,2 @@
 # Dynamiseur
-/* Client : Exploitation Bio Damien Bettex 
-   Projet : Dynamiseur
-   Date : juin 2019
-   Développeur : BF
-   Description : Programme de gestion d'un dynamiseur d'eau
-*/
+Intialement, le programme a été développé pour un API Siemens Logo. Le code a été porté sur Arduino mais jamais testé sur la machine.
